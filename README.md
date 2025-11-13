@@ -63,4 +63,62 @@ Porque, no fundo, **esse portfólio não é só uma página bonita — é meu pr
 
 🛠️ **Status:** 🚀 Em construção  
 🗓️ **Início:** Dia 1  
-✍️ **Autor:** [Seu Nome Aqui]  
+✍️ **Autor:** [pedro henrique]  
+
+# 📖 Dia 2 — O Silêncio Entre as Linhas de Código
+
+Hoje o dia foi mais calmo.  
+Nada de grandes commits, nenhuma explosão de produtividade, nenhum avanço técnico digno de destaque.  
+Mas, de algum modo, **sinto que avancei**.
+
+Comecei exportando alguns arquivos, separando imagens e rabiscando ideias que vão dar forma ao meu portfólio.  
+Nada que chame atenção para quem olha de fora — mas quem já construiu algo sabe:  
+é nesses pequenos ajustes que o projeto começa a **criar identidade**.
+
+---
+
+## 🔍 Observando o que inspira
+
+Passei parte do tempo explorando projetos de clientes no Workana, tentando entender **o que realmente conecta um design ao olhar de quem vê**.  
+Mergulhei em portfólios gringos e reparei como eles dominam o jogo das **animações sutis**, das **cores que contam histórias** e das **interfaces que parecem respirar**.
+
+Isso me deu várias ideias — mas o cansaço do trabalho bateu, e o corpo pediu pausa.
+
+---
+
+## 📚 Aprendizado silencioso
+
+No descanso, peguei meu livro do **Scott H. Young — Ultraprendizado**.  
+É curioso como esse livro fala exatamente sobre o que estou vivendo:  
+**o aprendizado intencional**, o ato de se desafiar por escolha, não por obrigação.
+
+Li até o sono me vencer.  
+E enquanto as palavras dele se misturavam aos meus pensamentos, percebi algo importante:  
+mesmo quando não estou codando, **ainda estou aprendendo**.  
+Mesmo nos dias lentos, o projeto continua crescendo — nem que seja **dentro da minha cabeça**.
+
+---
+
+## 🌱 Pequenos avanços invisíveis
+
+Hoje não houve grandes conquistas.  
+Mas houve **presença** — e isso é raro.  
+Às vezes o progresso não aparece no GitHub,  
+mas acontece nas **ideias que amadurecem em silêncio**.
+
+Talvez seja isso que o *Ultraprendizado* quer dizer:  
+**aprender a aprender**, mesmo quando nada parece estar acontecendo.
+
+---
+
+## 💡 Reflexão final
+
+Ainda não comecei o código do portfólio,  
+mas sinto que o projeto já começou a **me transformar**.  
+E isso, por enquanto, **é suficiente**.
+
+---
+
+🛠️ **Status:** 🌙 Em pausa produtiva  
+🗓️ **Dia:** 2  
+✍️ **Autor:** [pedro henrique]  
