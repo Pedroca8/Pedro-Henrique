@@ -122,3 +122,11 @@ E isso, por enquanto, **é suficiente**.
 🛠️ **Status:** 🌙 Em pausa produtiva  
 🗓️ **Dia:** 2  
 ✍️ **Autor:** [pedro henrique]  
+
+Dia 3 — Entre Design, Dúvidas e Um Chamado Inesperado
+
+Hoje mergulhei mais uma vez no mundo do design, tentando compreender por que certas interfaces parecem falar com a gente enquanto outras apenas existem. Foi um estudo rápido, encaixado entre compromissos e cansaço, porque cheguei tarde em casa e ainda precisava resolver algumas pendências. No caminho de volta, porém, algo inesperado aconteceu. Recebi uma ligação para uma entrevista de emprego. Nada relacionado à programação, nada alinhado com o caminho que venho construindo, mas por algum motivo despertou minha curiosidade. Talvez pela possibilidade de mudança, talvez pelo medo silencioso de estar parado demais. Resolvi aceitar. Mesmo já tendo um trabalho, sinto diariamente que estou longe dos objetivos que realmente importam para mim.
+
+Essa distância pesa. É como caminhar sabendo que a estrada está certa, mas percebendo que os passos ainda não acompanham o ritmo da ambição. A entrevista pode não ter nada a ver com código, mas pode ter a ver comigo. Pode ser uma porta que abre outra porta que, mais adiante, me aproxima da vida que imagino. Ou pode ser apenas mais uma experiência para somar ao meu documentário pessoal. De qualquer forma, vou descobrir. Quando tiver novidades, volto aqui para registrar cada detalhe, porque tudo isso — inclusive as incertezas — faz parte do processo de quem está tentando construir algo maior do que apenas um portfólio.
+
+Por agora, encerro o dia com essa sensação estranha de inquietude e esperança misturadas. Boa noite para quem lê isso e boa noite para a versão de mim que continua tentando, mesmo devagar, criar uma vida que faça sentido.
